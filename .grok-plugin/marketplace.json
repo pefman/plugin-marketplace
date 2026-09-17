@@ -377,7 +377,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/pefman/fiskmas-grok-plugin.git",
-        "sha": "9396c1c3c6b5038e131d7a4272e43e3d207cc8b1"
+        "sha": "e93ffd1a7338a8156d5a705a246cf074ede2808f"
       },
       "homepage": "https://fiskmas.dev",
       "keywords": ["fiskmas", "fiskmas deploy", "deploy to fiskmas", "fiskmas mcp"],
