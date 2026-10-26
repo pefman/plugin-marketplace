@@ -525,8 +525,8 @@
       }
     },
     "fiskmas": {
-      "sha": "0cf49719c18d43f127f94d03b19b5203cf03f7f4",
-      "version": "1.1.0",
+      "sha": "b6028bd19656a698ee7b06dc75ffa0fc37e817b4",
+      "version": "1.1.1",
       "components": {
         "mcpServers": [
           {
